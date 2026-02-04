@@ -1,11 +1,17 @@
 # AI Operations Assistant
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-green)](https://gen-ai-intern-assignment-truly-madl.vercel.app/)
+[![Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-blue)](https://gen-ai-intern-assignment-truly-madl.vercel.app/)
+
 Multi-agent AI system that processes natural language tasks using Planner to Executor to Verifier architecture with real API integrations.
 
 ## Submitted by:
 - Name: **Nayan Mandal**
 - Email: bt22csd035@iiitn.ac.in | nayan.iiitn@gmail.com
 - Phone Number: +91-93696-67968
+
+## 🌐 Live Demo
+Visit our platform at: [AI Operations Assistant](https://gen-ai-intern-assignment-truly-madl.vercel.app/)
 
 ## Setup Instructions
 
