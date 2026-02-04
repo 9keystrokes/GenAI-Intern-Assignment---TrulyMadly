@@ -1,7 +1,7 @@
 # AI Operations Assistant
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-green)](https://gen-ai-intern-assignment-truly-madl.vercel.app/)
-[![Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-blue)](https://gen-ai-intern-assignment-truly-madl.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-green)](https://gen-ai-intern-assignment-truly-madl.vercel.app/docs)
+[![Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-blue)](https://gen-ai-intern-assignment-truly-madl.vercel.app/docs)
 
 Multi-agent AI system that processes natural language tasks using Planner to Executor to Verifier architecture with real API integrations.
 
@@ -11,7 +11,7 @@ Multi-agent AI system that processes natural language tasks using Planner to Exe
 - Phone Number: +91-93696-67968
 
 ## 🌐 Live Demo
-Visit our platform at: [AI Operations Assistant](https://gen-ai-intern-assignment-truly-madl.vercel.app/)
+Visit our platform at: [AI Operations Assistant](https://gen-ai-intern-assignment-truly-madl.vercel.app/docs)
 
 ## Setup Instructions
 
