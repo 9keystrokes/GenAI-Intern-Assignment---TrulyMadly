@@ -10,7 +10,7 @@ Multi-agent AI system that processes natural language tasks using Planner to Exe
 - Email: bt22csd035@iiitn.ac.in | nayan.iiitn@gmail.com
 - Phone Number: +91-93696-67968
 
-## 🌐 Live Demo
+## Live Demo
 Visit our platform at: [AI Operations Assistant](https://gen-ai-intern-assignment-truly-madl.vercel.app/docs)
 
 ## Setup Instructions
